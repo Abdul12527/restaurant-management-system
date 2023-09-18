@@ -84,7 +84,7 @@ Make sure you have the following prerequisites installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/restaurant-management-system.git
+   git clone https://github.com/Abdul12527/restaurant-management-system.git
 2. Navigate to the project directory
 
     ```bash
